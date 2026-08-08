@@ -1,0 +1,82 @@
+[
+    {
+        "Student ID": 101,
+        "Student Name": "Aarav Sharma",
+        "Age": 15,
+        "Class": "10th",
+        "Roll No": 12,
+        "Marks": 88
+    },
+    {
+        "Student ID": 102,
+        "Student Name": "Ananya Verma",
+        "Age": 16,
+        "Class": "11th",
+        "Roll No": 5,
+        "Marks": 92
+    },
+    {
+        "Student ID": 103,
+        "Student Name": "Rohan Gupta",
+        "Age": 14,
+        "Class": "9th",
+        "Roll No": 28,
+        "Marks": 76
+    },
+    {
+        "Student ID": 104,
+        "Student Name": "Priya Singh",
+        "Age": 15,
+        "Class": "10th",
+        "Roll No": 19,
+        "Marks": 85
+    },
+    {
+        "Student ID": 105,
+        "Student Name": "Kabir Patel",
+        "Age": 17,
+        "Class": "12th",
+        "Roll No": 8,
+        "Marks": 90
+    },
+    {
+        "Student ID": 106,
+        "Student Name": "Sneha Reddy",
+        "Age": 16,
+        "Class": "11th",
+        "Roll No": 33,
+        "Marks": 81
+    },
+    {
+        "Student ID": 107,
+        "Student Name": "Rahul Kumar",
+        "Age": 14,
+        "Class": "9th",
+        "Roll No": 15,
+        "Marks": 69
+    },
+    {
+        "Student ID": 108,
+        "Student Name": "Diya Joshi",
+        "Age": 15,
+        "Class": "10th",
+        "Roll No": 22,
+        "Marks": 94
+    },
+    {
+        "Student ID": 109,
+        "Student Name": "Vikrant Mehta",
+        "Age": 17,
+        "Class": "12th",
+        "Roll No": 4,
+        "Marks": 87
+    },
+    {
+        "Student ID": 110,
+        "Student Name": "Pooja Nair",
+        "Age": 16,
+        "Class": "11th",
+        "Roll No": 11,
+        "Marks": 78
+    }
+]
